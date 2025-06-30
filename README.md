@@ -31,6 +31,12 @@ Install dependencies (from `PDL_ASS_IV/requirements.txt`):
 pip install torch torchvision numpy opencv-python gradio detectron2
 ```
 
+## Demo
+
+   Below is an example of the Gradio app in action:
+
+   ![Gradio App Demo](PDL_ASS_IV/demo_img.png)
+
 ### Running the App
 1. Navigate to the `PDL_ASS_IV` directory:
    ```
